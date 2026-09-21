@@ -21,12 +21,25 @@ python3 tools/validate_exercises.py
 
 详细格式见 [docs/SCHEMA.md](docs/SCHEMA.md)，可复制 [examples/202611-example.json](examples/202611-example.json) 作为新题目的起点。
 
+## 发布 Android 资源包
+
+每个年度仓库都可通过 GitHub Release 发布 Android 可下载的题库资源。资源身份与版本记录在根目录的 `resource.json`；构建与发布流程见 [docs/ANDROID_RESOURCE.md](docs/ANDROID_RESOURCE.md)。
+
+```bash
+python3 tools/build_resource_package.py \
+  --source-repository https://github.com/ilunyu/[年度仓库名]
+```
+
+日常修改在 `dev` 分支完成；创建 `dev → main` Pull Request 并合并后，GitHub Actions 会自动创建版本标签和 Release。详细规范见 [docs/DEVELOPMENT.md](docs/DEVELOPMENT.md)。
+
 ## 新建年度仓库后需更新的内容
 
 1. 将仓库名称改为 `ilunyu-exercise-YYYY-YYYY`。
 2. 将本 README 的标题、统计数字、各区考察矩阵与评述替换为该学年信息。
-3. 删除 `examples/202611-example.json`；样例不属于正式题库。
-4. 新题目文件必须放在仓库根目录，文件名必须严格等于其 JSON 的 `id`，即 `<id>.json`。
+3. 更新根目录的 `resource.json`：学年、包标识、名称、版本和仓库地址必须对应新仓库。
+4. 删除 `examples/202611-example.json`；样例不属于正式题库。
+5. 保留 `tools/`、`.github/workflows/`、`docs/ANDROID_RESOURCE.md` 与 `resource.json`，以便校验并发布 Android 资源包。
+6. 新题目文件必须放在仓库根目录，文件名必须严格等于其 JSON 的 `id`，即 `<id>.json`。
 
 ## 请删除以上内容，只保留以下内容
 
