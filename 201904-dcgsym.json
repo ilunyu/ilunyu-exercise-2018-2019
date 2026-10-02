@@ -1,0 +1,83 @@
+{
+  "id": "201904-dcgsym",
+  "title": "2019·东城一模",
+  "year": "2018-2019",
+  "month": 201904,
+  "source": "东城",
+  "grade": 3,
+  "type": "一模",
+  "number": 13,
+  "score": 6,
+  "question": [
+    {
+      "type": "material",
+      "blocktitle": "材料①",
+      "sourceid": 416,
+      "sourcename": "《里仁》",
+      "paragraphs": [
+        {
+          "text": "君子喻于义，小人喻于利。",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料②",
+      "sourceid": 807,
+      "sourcename": "《泰伯》",
+      "paragraphs": [
+        {
+          "text": "士不可以不弘毅，任重而道远。",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料③",
+      "sourceid": 929,
+      "sourcename": "《子罕》",
+      "paragraphs": [
+        {
+          "text": "知者不惑，仁者不忧，勇者不惧。",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料④",
+      "sourceid": 1519,
+      "sourcename": "《卫灵公》",
+      "paragraphs": [
+        {
+          "text": "君子病无能焉，不病人之不己知也。",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "text": "以上四则内容都谈到了古代君子应具备的品格，请以中国文学作品中的一个君子形象为例，谈谈对这四则材料中任意一则的理解。",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "“君子喻于义，小人喻于利”强调君子看重道义，小人看重利益。《三国演义》中的关羽就是一位重然诺、讲忠义的君子。他面对曹操给予的各种优厚待遇毫不动心，不惧艰险，执意回到了结义兄长刘备的身边。反观张鲁的谋士杨松，面对曹操的征讨，心中“利”字当先，贪财卖主，实为小人。",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "note",
+      "text": "语句理解准确，2 分；结合文学作品中的人物形象解说合理，4 分。",
+      "format": {}
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "201903-mtggsym",
+  "title": "2019·门头沟一模",
+  "year": "2018-2019",
+  "month": 201903,
+  "source": "门头沟",
+  "grade": 3,
+  "type": "一模",
+  "number": 13,
+  "score": 5,
+  "question": [
+    {
+      "type": "regular",
+      "text": "以上两篇短文都讲到国君治国理政。《论语》中也有相关表述。这些表述反映了孔子怎样的为政理念。请任选两则简要分析。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "blocktitle": "(1)",
+      "sourceid": 1306,
+      "sourcename": "《论语·子路》",
+      "paragraphs": [
+        {
+          "text": "子曰：“其身正，不令而行；其身不正，虽令不从。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "(2)",
+      "sourceid": 203,
+      "sourcename": "《论语·为政》",
+      "paragraphs": [
+        {
+          "text": "子曰：“道之以政，齐之以刑，民免而无耻；道之以德，齐之以礼，有耻且格。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "⑶",
+      "sourceid": 219,
+      "sourcename": "《论语·为政》",
+      "paragraphs": [
+        {
+          "text": "哀公问曰：“何为则民服？”孔子对曰：“举直错诸枉，则民服；举枉错诸直，则民不服。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "⑷",
+      "sourceid": 711,
+      "sourcename": "《论语·述而》",
+      "paragraphs": [
+        {
+          "text": "子曰：“暴虎冯河，死而无悔者，吾不与也。必也临事而惧，好谋而成者也。”",
+          "format": {}
+        }
+      ]
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "（任选2条）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（1）为政者要以身作则，端正自身",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）行德政，讲礼仪，使百姓知廉耻",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（3）荐举贤才，选贤用能",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（4） 不用有勇无谋（匹夫之勇、贸然行事）之人/用有勇能谋（谨言慎行 深谋远虑）之人",
+      "format": {}
+    },
+    {
+      "type": "note",
+      "text": "评分标准参考：理念概括各 1 分，理解简要分析各 1 分，语言表达 1 分。",
+      "format": {}
+    }
+  ]
+}

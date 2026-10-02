@@ -1,0 +1,63 @@
+{
+  "id": "201901-sjsgsqm",
+  "title": "2019·石景山高三期末",
+  "year": "2018-2019",
+  "month": 201901,
+  "source": "石景山",
+  "grade": 3,
+  "type": "期末",
+  "number": 13,
+  "score": 4,
+  "question": [
+    {
+      "type": "regular",
+      "text": "《论语》记录了多则关于“礼”的言论，比如：",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "sourceid": 303,
+      "sourcename": "《论语·八佾》",
+      "paragraphs": [
+        {
+          "text": "子曰：“人而不仁，如礼何？人而不仁，如乐何？”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 304,
+      "sourcename": "《论语·八佾》",
+      "paragraphs": [
+        {
+          "text": "林放问礼之本。子曰：“大哉问！礼，与其奢也，宁俭；丧，与其易也，宁戚。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 1711,
+      "sourcename": "《论语·阳货》",
+      "paragraphs": [
+        {
+          "text": "子曰：“礼云礼云，玉帛云乎哉？乐云乐云，钟鼓云乎哉？”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "text": "从中可以看出孔子对“礼”有怎样的认识？请简要概述。",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "“礼”的本质是“仁”；如果没有发自内心的真诚仁爱，徒有奢华形式，“礼”就失去了意义。",
+      "format": {}
+    }
+  ]
+}

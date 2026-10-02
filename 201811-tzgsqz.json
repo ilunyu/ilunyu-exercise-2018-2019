@@ -1,0 +1,81 @@
+{
+  "id": "201811-tzgsqz",
+  "title": "2018·通州高三期中",
+  "year": "2018-2019",
+  "month": 201811,
+  "source": "通州",
+  "grade": 3,
+  "type": "期中",
+  "number": 13,
+  "score": 5,
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读下列《论语》选段，回答问题。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料①",
+      "sourceid": 720,
+      "sourcename": "《述而》",
+      "paragraphs": [
+        {
+          "text": "子曰：“我非生而知之者，好古，敏以求之者也。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料②",
+      "sourceid": 417,
+      "sourcename": "《里仁》",
+      "paragraphs": [
+        {
+          "text": "子曰：“见贤思齐焉，见不贤而内自省也。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料③",
+      "sourceid": 1531,
+      "sourcename": "《卫灵公》",
+      "paragraphs": [
+        {
+          "text": "子曰：“吾尝终日不食，终夜不寝，以思，无益，不如学也。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "text": "请分别简述这三个选段的内容，并概括说明这三个选段反映了孔子怎样的思想。",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "①孔子说自己不是生来就有知识的人，而是爱好古代文化、勤奋敏捷去求得来的。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "②孔子说见到有才华的人就向他学习，看见没有德行的人，就反省自己是否有和他同样的错误。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "③孔子说自己曾经废寝忘食地左思右想，结果没有什么益处，还不如去学习。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "这三个选段反映了孔子的教育思想和学习态度，在他看来，人要通过自身的努力获取知识，要以有才华的人为榜样，并在学习的实践中提升自我。",
+      "format": {}
+    }
+  ]
+}

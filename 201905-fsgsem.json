@@ -1,0 +1,83 @@
+{
+  "id": "201905-fsgsem",
+  "title": "2019·房山二模",
+  "year": "2018-2019",
+  "month": 201905,
+  "source": "房山",
+  "grade": 3,
+  "type": "二模",
+  "number": 13,
+  "score": 5,
+  "question": [
+    {
+      "type": "regular",
+      "text": "“仁”是《论语》的基本思想，孔子所倡导的仁爱思想影响了我们一代又一代中国人，到今天更是发扬光大。请从下面所列《论语》关于“仁”的言论中选择一则，谈谈你对其意义的理解和它的影响。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料①",
+      "sourceid": -1,
+      "sourcename": "《论语·颜渊》",
+      "paragraphs": [
+        {
+          "text": "樊迟问仁。子曰：“爱人。”厩焚。子退朝，曰：“伤人乎？”不问马。",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料②",
+      "sourceid": 1201,
+      "sourcename": "《论语·颜渊》",
+      "paragraphs": [
+        {
+          "text": "颜渊问仁。子曰：“克己复礼为仁。一日克己复礼，天下归仁焉。为仁由己，而由人乎哉？”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料③",
+      "sourceid": 1509,
+      "sourcename": "《论语·卫灵公》",
+      "paragraphs": [
+        {
+          "text": "子曰：“志士仁人，无求生以害仁，有杀身以成仁。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料④",
+      "sourceid": 630,
+      "sourcename": "《论语·雍也》",
+      "paragraphs": [
+        {
+          "text": "子曰：“夫仁者，己欲立而立人，己欲达而达人。”",
+          "format": {}
+        }
+      ]
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "答案示例：",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "子曰：“志士仁人，无求生以害仁，有杀身以成仁。”意思是，志士仁人，没有贪生怕死而损害仁，只有牺牲自己的性命来成全仁。生命是宝贵的，但有比生命更可宝贵的，那就是“仁”。“杀身成仁”，就是人们在生死关头宁可舍弃生命也要保全“仁”。自古以来，它激励着谭嗣同、瞿秋白等仁人志士为国家和民族的生死存亡而抛头颅洒热血，谱写了一首首可歌可泣的壮丽诗篇。",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    }
+  ]
+}
